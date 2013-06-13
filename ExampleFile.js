@@ -5,3 +5,7 @@ function ExampleFile() {
 	this.attach();
 }
 ClassUtil.processClass(ExampleFile, "ExampleFile");
+
+
+
+var some= "change";
